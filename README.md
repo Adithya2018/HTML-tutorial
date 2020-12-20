@@ -1,2 +1,2 @@
 # HTML tutorial
- HTML tutorial for Mike Dane
+ HTML tutorial by Mike Dane
